@@ -21,7 +21,7 @@ main {
 
 /* Sidebar */
 .sidebar {
-  background: rgb(0, 7, 61);
+  background: #372948;
   color: white;
   height: 100vh;
   overflow-y: auto;
@@ -36,6 +36,7 @@ main {
 .logo {
   font-size: 18px;
   line-height: 0;
+  color: white;
 }
 .bars {
   width: 30px;
@@ -86,6 +87,7 @@ main {
 .link_text {
   white-space: nowrap;
   font-size: 15px;
+  color: white;
 }
 
 .menu {

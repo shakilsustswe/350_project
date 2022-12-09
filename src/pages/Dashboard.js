@@ -197,7 +197,7 @@ export default function Dashboard() {
     return (
         <div className='main'>
             <div class="grid-container">
-                <div class="item1">Super Shop Management System
+                <div class="item1">Welcome to dashboard
                 </div>
                 <div class="item2">
                     <h1>Top Selling Products</h1>
@@ -289,7 +289,7 @@ export default function Dashboard() {
 
                 </div>
                 <div class="item6">
-                    Employee <br/>
+                    Employees <br/>
                     <div>{employee.length}</div>
                 </div>
                 <div class="item7">Products<br/> <div>{product.length} </div></div>
