@@ -1,0 +1,39 @@
+[
+    {
+        "name":"Mango",
+        "Category":"2",
+        "brand":"2"
+    },
+    {
+        "name":"Brush",
+        "Category":"1",
+        "brand":"1"
+    },
+    {
+        "name":"Water pot",
+        "Category":"1",
+        "brand":"1"
+    },
+    {
+        "name":"rack",
+        "Category":"1",
+        "brand": "5"
+    },
+    {
+        "name":"Freeze",
+        "Category": "4",
+        "brand":"3"
+    },
+    {
+        "name": "Freeze",
+        "Category":"4",
+        "brand":"4"
+    },
+    {
+        "name":"Nail polish",
+        "Category":"3",
+        "brand":"1"
+    }
+]
+
+
