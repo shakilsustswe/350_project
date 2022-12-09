@@ -1,0 +1,21 @@
+
+.showinvoice{
+    width:100vw;
+}
+th{
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    border: 1px solid grey;
+}
+tr{
+    text-align: center;
+   
+    border: 1px solid grey;
+}
+td{
+    text-align: center;
+}
+.showinvoice .table{
+    width: 50%;
+}
